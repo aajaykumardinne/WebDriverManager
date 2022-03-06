@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-25T11:50:07 IST" name="Default suite" finished-at="2021-09-25T11:50:44 IST" duration-ms="36651">
+    <groups>
+    </groups>
+    <test started-at="2021-09-25T11:50:07 IST" name="Default test" finished-at="2021-09-25T11:50:44 IST" duration-ms="36651">
+      <class name="WM.WMTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:WM.WMTest@ea6147e]" started-at="2021-09-25T11:50:07 IST" name="setup" finished-at="2021-09-25T11:50:38 IST" duration-ms="30247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="freeCRMTest()[pri:0, instance:WM.WMTest@ea6147e]" started-at="2021-09-25T11:50:38 IST" name="freeCRMTest" finished-at="2021-09-25T11:50:43 IST" duration-ms="5719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCRMTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:WM.WMTest@ea6147e]" started-at="2021-09-25T11:50:43 IST" name="tearDown" finished-at="2021-09-25T11:50:44 IST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- WM.WMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
